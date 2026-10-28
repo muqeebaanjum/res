@@ -1,4 +1,8 @@
 this is file
+<<<<<<< HEAD
 my name is anjum
 i'm in worst clg
 ljjkhhj
+=======
+new data added
+>>>>>>> d93bb48 (New Data)
